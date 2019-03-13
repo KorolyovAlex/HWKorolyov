@@ -4,7 +4,15 @@ namespace HW1
 {
     public class Sublines
     {
-        public static void PrintSublines(string line)
+        private string line;
+
+        public Sublines(string line)
+        {
+            this.line = line;
+        }
+        
+
+        public void PrintSublines()
         {
             line.ToLower();
             Console.WriteLine("Line: " + line);
