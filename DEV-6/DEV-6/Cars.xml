@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cars>
+  <brand name = "Lamborghini">
+    <model name = "Aventador">
+      <number>3</number>
+      <price>186038</price>
+    </model>
+    <model name = "Veneno Roadster">
+      <number>9</number>
+      <price>6200000</price>
+    </model>
+  </brand>
+<brand name = "Lada">
+    <model name = "2109">
+      <number>92</number>
+      <price>698</price>
+    </model>
+    <model name = "Vesta SW Cross">
+      <number>9</number>
+      <price>12833</price>
+    </model>
+  </brand>
+<brand name = "Toyota">
+    <model name = "Corolla">
+      <number>23</number>
+      <price>21682</price>
+    </model>
+  </brand>
+</cars>
